@@ -1,1 +1,2 @@
 # DDAM-05-TASKS
+App de lista de tareas. Crear una aplicación que permita crear una lista de “Que Haceres”, esta aplicación tendrá un botón que al presionarlo, envíe al usuario a una pantalla donde permitirá introducer los detalles del “Que hacer” (Titulo, y Descripción). En la pantalla principal debería verse la lista de “Que haceres” creado por el usuario y al hacer “tap” en cualquiera de estas tareas, poder ver el detalle de dicha tarea.
